@@ -1,0 +1,18 @@
+nomVolant,Logitech Inc. WingMan Formula Force GP
+volantCode,0
+volantType,3
+paletteDCode,289
+paletteDType,1
+paletteGCode,288
+paletteGType,1
+pedaleDCode,1
+pedaleDType,3
+pedaleGCode,2
+PedaleGType,3
+pedaleDroiteMax,220
+pedaleDroiteMin,25
+pedaleGaucheMax,230
+pedaleGaucheMin,16
+volantAngleMax,968
+volantAngleMin,32
+pedaleGType,3

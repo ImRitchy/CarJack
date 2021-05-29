@@ -1,0 +1,18 @@
+nomVolant,Thrustmaster Thrustmaster T80
+volantCode,0
+volantType,3
+paletteDCode,309
+paletteDType,1
+paletteGCode,308
+paletteGType,1
+pedaleDCode,4
+pedaleDType,3
+pedaleGCode,3
+PedaleGType,3
+pedaleDroiteMax,255
+pedaleDroiteMin,1
+pedaleGaucheMax,255
+pedaleGaucheMin,2
+volantAngleMax,255
+volantAngleMin,1
+pedaleGType,3
