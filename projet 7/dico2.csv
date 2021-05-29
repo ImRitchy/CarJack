@@ -1,0 +1,18 @@
+nomVolant,Microsoft X-Box 360 pad
+volantCode,0
+volantType,3
+paletteDCode,311
+paletteDType,1
+paletteGCode,310
+paletteGType,1
+pedaleDCode,5
+pedaleDType,3
+pedaleGCode,2
+PedaleGType,3
+pedaleDroiteMax,255
+pedaleDroiteMin,0
+pedaleGaucheMax,255
+pedaleGaucheMin,0
+volantAngleMax,32000
+volantAngleMin,-31999
+pedaleGType,3
